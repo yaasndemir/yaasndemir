@@ -1,16 +1,14 @@
-## Hi there 👋
+# Merhaba, ben Yasin 👋
 
-<!--
-**yaasndemir/yaasndemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Specialist · Healthcare IT (HIS/HBYS) · Kayseri, Türkiye
 
-Here are some ideas to get you started:
+## Ne yapıyorum
+- Hastanede kullanıcı desteği, Windows/donanım, HBYS yazılım firmasıyla koordinasyon
+- AI destekli geliştirmeyle iç araçlar: portal, IT ticket sistemi, cihaz bakım takibi, QR ile varlık takibi
+- AÖF Bilgisayar Programcılığı okuyorum; Almanca öğreniyorum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projeler
+- [scamcheck-web](https://github.com/yaasndemir/scamcheck-web): TR/EN/DE dolandırıcılık ve oltalama mesajı denetleyicisi (TypeScript)
+
+## Bağlantı
+LinkedIn: linkedin.com/in/yasinndemir
